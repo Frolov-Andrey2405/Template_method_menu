@@ -1,0 +1,7 @@
+Diagram of states: Baklanov
+Class diagram: Ovcharuk
+Abstract class: Baklanov
+Class Menu1: Frolov
+Class Menu2: Ovcharuk
+MainMenu class: Polarush
+Class Program: Frolov
