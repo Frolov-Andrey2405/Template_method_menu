@@ -1,0 +1,21 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLState</id><coordinates><x>350</x><y>240</y><w>180</w><h>80</h></coordinates><panel_attributes>MainMenu
+--
+1-Menu1
+2-Menu2
+3-Exit
+valign=top
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>590</x><y>140</y><w>180</w><h>80</h></coordinates><panel_attributes>Menu1
+--
+1-Menu1.1
+2-Menu1.2
+3-Exit
+valign=top
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLState</id><coordinates><x>590</x><y>330</y><w>180</w><h>80</h></coordinates><panel_attributes>Menu2
+--
+1-Menu2.1
+2-Menu2.2
+3-Exit
+valign=top
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>520</x><y>300</y><w>90</w><h>70</h></coordinates><panel_attributes>lt=-&gt;
+Menu2</panel_attributes><additional_attributes>10;10;70;50</additional_attributes></element><element><id>Relation</id><coordinates><x>520</x><y>200</y><w>90</w><h>70</h></coordinates><panel_attributes>lt=-&gt;
+Menu1</panel_attributes><additional_attributes>10;50;70;10</additional_attributes></element><element><id>UMLSpecialState</id><coordinates><x>430</x><y>160</y><w>20</w><h>20</h></coordinates><panel_attributes>type=initial</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>430</x><y>170</y><w>30</w><h>90</h></coordinates><panel_attributes>lt=-&gt;</panel_attributes><additional_attributes>10;10;10;70</additional_attributes></element><element><id>UMLSpecialState</id><coordinates><x>430</x><y>400</y><w>20</w><h>20</h></coordinates><panel_attributes>type=final</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>430</x><y>310</y><w>30</w><h>110</h></coordinates><panel_attributes>lt=-&gt;</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element></diagram>
